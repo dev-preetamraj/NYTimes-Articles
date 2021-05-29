@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import SearchForm from './SearchForm';
+import Footer from './Footer';
 
 const App = () => {
 
@@ -57,6 +58,7 @@ const App = () => {
 
         </section>
       }
+      <Footer />
     </>
   );
 }
