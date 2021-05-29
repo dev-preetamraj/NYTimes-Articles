@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/NYTimes-Articles/static/css/main.1040f45f.chunk.css",
+    "main.js": "/NYTimes-Articles/static/js/main.f7e59af7.chunk.js",
+    "main.js.map": "/NYTimes-Articles/static/js/main.f7e59af7.chunk.js.map",
+    "runtime-main.js": "/NYTimes-Articles/static/js/runtime-main.04083d74.js",
+    "runtime-main.js.map": "/NYTimes-Articles/static/js/runtime-main.04083d74.js.map",
+    "static/js/2.0ba18214.chunk.js": "/NYTimes-Articles/static/js/2.0ba18214.chunk.js",
+    "static/js/2.0ba18214.chunk.js.map": "/NYTimes-Articles/static/js/2.0ba18214.chunk.js.map",
+    "static/js/3.0317ffd4.chunk.js": "/NYTimes-Articles/static/js/3.0317ffd4.chunk.js",
+    "static/js/3.0317ffd4.chunk.js.map": "/NYTimes-Articles/static/js/3.0317ffd4.chunk.js.map",
+    "index.html": "/NYTimes-Articles/index.html",
+    "static/css/main.1040f45f.chunk.css.map": "/NYTimes-Articles/static/css/main.1040f45f.chunk.css.map",
+    "static/js/2.0ba18214.chunk.js.LICENSE.txt": "/NYTimes-Articles/static/js/2.0ba18214.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.04083d74.js",
+    "static/js/2.0ba18214.chunk.js",
+    "static/css/main.1040f45f.chunk.css",
+    "static/js/main.f7e59af7.chunk.js"
+  ]
+}
