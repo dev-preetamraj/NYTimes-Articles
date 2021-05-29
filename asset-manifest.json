@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/NYTimes-Articles/static/css/main.1040f45f.chunk.css",
-    "main.js": "/NYTimes-Articles/static/js/main.f7e59af7.chunk.js",
-    "main.js.map": "/NYTimes-Articles/static/js/main.f7e59af7.chunk.js.map",
+    "main.js": "/NYTimes-Articles/static/js/main.37ed8d9a.chunk.js",
+    "main.js.map": "/NYTimes-Articles/static/js/main.37ed8d9a.chunk.js.map",
     "runtime-main.js": "/NYTimes-Articles/static/js/runtime-main.04083d74.js",
     "runtime-main.js.map": "/NYTimes-Articles/static/js/runtime-main.04083d74.js.map",
     "static/js/2.0ba18214.chunk.js": "/NYTimes-Articles/static/js/2.0ba18214.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.04083d74.js",
     "static/js/2.0ba18214.chunk.js",
     "static/css/main.1040f45f.chunk.css",
-    "static/js/main.f7e59af7.chunk.js"
+    "static/js/main.37ed8d9a.chunk.js"
   ]
 }
